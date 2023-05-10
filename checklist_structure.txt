@@ -1,6 +1,6 @@
 id
 summary
-environment
+environments
 priority
 pre-conditions
 steps
